@@ -1,4 +1,4 @@
-# I#m follow this youtube vid [![alt text][1]](https://www.youtube.com/watch?v=zUvHkkkrmIY)
+# I'm follow this youtube vid [![alt text][1]](https://www.youtube.com/watch?v=zUvHkkkrmIY)
 
 <!-- make folder and download the link sign vai curl -->
 <!-- mkdir -p img && curl --create-dirs --output-dir img -O  "https://raw.githubusercontent.com/MathiasStadler/link_symbol_svg/refs/heads/main/link_symbol.svg"-->
