@@ -1,4 +1,4 @@
-# I'm follow this youtube vid [![alt text][1]](https://www.youtube.com/watch?v=zUvHkkkrmIY)
+# I'm follow this youtube vid - Rust - building a UI to plot a sensor value in real time [![alt text][1]](https://www.youtube.com/watch?v=zUvHkkkrmIY)
 
 ## Wrrong word
 <!-- keep the format -->
